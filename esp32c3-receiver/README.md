@@ -1,4 +1,4 @@
-# Project Name
+# Esp32c3-receiver
 
 ## Overview
 The current implementation utilizes the ESP32-C3 microcontroller as the receiver. This repository includes Arduino files, PCB Gerber files, BOM (Bill of Materials), and other relevant resources.
