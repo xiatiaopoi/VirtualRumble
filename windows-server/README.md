@@ -1,4 +1,4 @@
-# VirtualRumble
+# Windows-server
 
 ## Overview
 This project is currently developed using Python version 3.11.5. However, future iterations will transition to an easily installable Windows executable.
